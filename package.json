@@ -1,0 +1,33 @@
+{
+  "name": "natusest",
+  "version": "1.0.0",
+  "description": "A simple way to check if a string is a keyword or reserved keyword in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/AnneLarson/natusest.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnneLarson/natusest.git"
+  },
+  "keywords": [
+    "javascript",
+    "keyword",
+    "a"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "author": "BrandynWelch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnneLarson/natusest.git/issues"
+  },
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
